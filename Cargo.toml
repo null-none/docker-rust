@@ -1,0 +1,8 @@
+[package]
+name = "rust-app"
+version = "1.0.0"
+authors = ["<kalinin.mitko@gmail.com>"]
+description = "Rust App"
+repository = "https://github.com/null-none/docker-rust"
+
+[dependencies]
